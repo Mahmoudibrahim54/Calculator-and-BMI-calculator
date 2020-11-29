@@ -1,2 +1,2 @@
 # Calculator-and-BMI-calculator
-simple calculator that adds two numbers using Node JS and Express and implements body-parser 
+Multi pages web app first is simple calculator that adds two numbers second calculats BMI (body mass index) using simple formela both using Node JS and Express and implementing NPM library body-parser 
